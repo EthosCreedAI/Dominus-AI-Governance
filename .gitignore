@@ -1,0 +1,21 @@
+# .DS_Store & macOS metadata
+.DS_Store
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor & IDE configs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment & local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.cer
+*.crt
